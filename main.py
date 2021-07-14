@@ -53,7 +53,7 @@ from time import sleep
 
 
 def myfun ():
-    n = int(input("Enter the no of toss :"))
+    n = int(input("Q Enter the no of toss :"))
     in1 = int(input("Enter initial :"))
     de = int(input("Enter final : "))
     head = 0
